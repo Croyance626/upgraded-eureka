@@ -6,7 +6,7 @@ int main()
 	int n,W;
 	int w[100];
 	int v[100];
-	int x[100];//ÅÐ¶ÏÊÇ·ñ×°½ø±³°ü
+	int x[100];//判断是否装进背包
 	int c[100][100];
 	cin >> n>>W;
 	for (int i = 1; i <= n; i++)
